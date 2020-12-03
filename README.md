@@ -27,7 +27,7 @@
 
 •Добавлять новых студентов
 
-
+![main](https://github.com/Firajest/elbrus.lyceum/blob/master/readme-assets/5.png)
 
 •Добавлять обучающие материалы
 
